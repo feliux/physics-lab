@@ -6,11 +6,11 @@ This repository contains some code and usefull documentation about quantum compu
 
 - Improve code for numpy circuits.
 
-- Review notebooks for Julia [here](quantum_cryptography/1_ToReview.ipynb).
+- Review notebooks for Julia [here](./quantum_cryptography/1_ToReview.ipynb).
 
-- Review notebooks for QML [here](quantum_machine_learning)
+- Review notebooks for QML [here](./quantum_machine_learning)
 
-- Reduce docker image disk space usage.
+- Reduce docker image disk space.
 
 - Add built-in packages for quantum computing.
 
