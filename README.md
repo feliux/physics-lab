@@ -1,4 +1,4 @@
-[**attractors_fractlas**](./attractors_fractals/)
+[**attractors_fractals**](./attractors_fractals/)
 
 [**fluid_dynamics**](./fluid_dynamics/)
 
